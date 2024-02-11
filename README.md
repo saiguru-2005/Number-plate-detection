@@ -4,8 +4,6 @@ This project is used to read the images of the vehicle licence number, convert t
 ## Application
 This project can be used in parking area to keep track of every vehicle and make parking process easier. 
 
-## Demo
-![Image](https://github.com/vjgpt/Vehicle-Number-Plate-Reading/blob/c06ff5289654afb5360c4d97ef66c448e43e4b5e/output.png)
 
 ## Dependencies
 - OpenCV
